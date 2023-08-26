@@ -39,6 +39,9 @@ The Prisoner's Dilemma is a scenario where two players must decide whether to co
 
 `python prisoner_dilemma.py`
 
+## Play on Replit
+Click [here](https://replit.com/@joshuadanpeterson/Prisoners-Dilemma-Game-Strategic-Decision-Making-Game) to play on Replit
+
 
 ## Contribution
 
