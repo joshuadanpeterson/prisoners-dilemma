@@ -1,0 +1,15 @@
+# Ignore environment files
+venv/
+.config/
+
+# Ignore Packger files
+.upm/
+*.lock
+*.toml
+
+# Ignore config files
+.replit
+*.nix
+
+# Ignore .breakpoints
+.breakpoints
